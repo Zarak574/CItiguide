@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771910466977",
+    "firebase_url": "https://rolebased-6c443-default-rtdb.firebaseio.com",
+    "project_id": "rolebased-6c443",
+    "storage_bucket": "rolebased-6c443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771910466977:android:78da025cdd4088ef141fe0",
+        "android_client_info": {
+          "package_name": "com.example.rolebased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771910466977-bngjnch4v13aopnt2cg3hn7cbcl8a05a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rolebased",
+            "certificate_hash": "8053bcddd5acb8c6e8cc795edba922ed0184fb52"
+          }
+        },
+        {
+          "client_id": "771910466977-fjflfjqru6e4dnqiknc7ha236j23ait6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcjC9F9dyqWSvPa9tH10Hmn4MhaUZzV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771910466977-fjflfjqru6e4dnqiknc7ha236j23ait6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771910466977-0j237arni97qa0u64puentv830jnr8bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rolebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
