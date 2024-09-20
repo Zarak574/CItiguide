@@ -1,16 +1,9 @@
 # CITIGUIDE
 
-A new Flutter project.
+A Flutter - Dart - FIrebase Mobile Application
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Discover the world around you with Citiguide, a comprehensive mobile app designed to enhance your travel experience. Explore famous landmarks, hidden gems, and exciting destinations with our intuitive search functionality. Get real-time directions using Google Maps, and never miss a must-see attraction again.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create your personalized account to save bookmarks, share your travel tips, and read community reviews to make informed decisions. Plan your adventures with our integrated event planner and stay connected with fellow travelers. Whether you’re a local explorer or a curious tourist, Citiguide is here to help you navigate and experience every destination to the fullest!
