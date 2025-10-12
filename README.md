@@ -2,6 +2,8 @@
 
 A Flutter - Dart - FIrebase Mobile Application
 
+![alt text](https://github.com/Zarak574/CItiguide/blob/1e53060402a84593ba72eaec10325ad587c097f7/Citiguide.jpg)
+
 ## Description
 
 Discover the world around you with Citiguide, a comprehensive mobile app designed to enhance your travel experience. Explore famous landmarks, hidden gems, and exciting destinations with our intuitive search functionality. Get real-time directions using Google Maps, and never miss a must-see attraction again.
