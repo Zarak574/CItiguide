@@ -13,7 +13,4 @@ Create your personalized account to save bookmarks, share your travel tips, and 
 
 
 ![alt text](https://github.com/Zarak574/CItiguide/blob/63579b16a5beb60e0a9c7348a522b95e7a34cb8d/Design.png)
-
-
-
 ![alt text](https://github.com/Zarak574/CItiguide/blob/63579b16a5beb60e0a9c7348a522b95e7a34cb8d/design.png)
