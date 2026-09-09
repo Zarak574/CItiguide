@@ -6,7 +6,7 @@ Discover the world around you with Citiguide, a comprehensive mobile app designe
 
 Create your personalized account to save bookmarks, share your travel tips, and read community reviews to make informed decisions. Plan your adventures with our integrated event planner and stay connected with fellow travelers. Whether you’re a local explorer or a curious tourist, Citiguide is here to help you navigate and experience every destination to the fullest!
 
-![alt text](https://github.com/Zarak574/CItiguide/blob/1e53060402a84593ba72eaec10325ad587c097f7/Citiguide.jpg)
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/00ef8318-5650-42a5-b9f1-e780bfb48249" />
 
 # Explore Cities - Travel & Tourism App
 
