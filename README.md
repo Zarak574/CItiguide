@@ -52,7 +52,10 @@ Curated places with:
 - Star rating system. Ex: `Badshahi Mosque - 4.4 ⭐`
 - Examples shown: `Badshahi Mosque`, `Mohenjo-Daro`
 
-<img width="420" height="854" alt="16487_f67f2a3337b124c1db3de16b84ec58ef-9_21_2024, 8_31_15 AM" src="https://github.com/user-attachments/assets/1d0204ea-feba-4a29-a39f-539c872d37e0" />
+
+
+<img width="407" height="823" alt="HomePage" src="https://github.com/user-attachments/assets/64145b11-27b5-458a-a243-5c5dcd6b5358" />
+
 
 
 # Place Detail Screen - Explore Cities App
